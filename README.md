@@ -70,6 +70,7 @@ Amazon is a global e-commerce giant and cloud service provider with tools and pl
 - [Amazon Assistant](https://www.amazon.com/assistant) – Browser extension with deals, order tracking, and product comparisons.
 - [Honey](https://www.joinhoney.com/) – Automatically applies coupon codes, including some Amazon deals.
 - [CamelCamelCamel](https://camelcamelcamel.com/) – Amazon price tracker.
+- [truediscount](https://github.com/emirmrkaljevic/truediscount) – Open-source Firefox add-on and userscript that checks Amazon EU (and other EU shop) discounts against the 30-day lowest price.
 
 ## APIs
 
